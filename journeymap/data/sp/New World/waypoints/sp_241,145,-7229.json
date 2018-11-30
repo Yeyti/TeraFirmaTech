@@ -1,0 +1,17 @@
+{
+  "id": "sp_241,145,-7229",
+  "name": "sp",
+  "icon": "waypoint-normal.png",
+  "x": 241,
+  "y": 145,
+  "z": -7229,
+  "r": 168,
+  "g": 199,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

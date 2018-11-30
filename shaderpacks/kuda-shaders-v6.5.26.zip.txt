@@ -1,0 +1,5 @@
+#Tue Jul 10 08:52:09 MSK 2018
+dirtyLens=true
+waterCaustics=false
+shadowMapBias=0.6
+waterRefraction=false

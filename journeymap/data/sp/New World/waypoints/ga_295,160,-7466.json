@@ -1,0 +1,17 @@
+{
+  "id": "ga_295,160,-7466",
+  "name": "ga",
+  "icon": "waypoint-normal.png",
+  "x": 295,
+  "y": 160,
+  "z": -7466,
+  "r": 165,
+  "g": 138,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "boxite_292,160,-7519",
+  "name": "boxite",
+  "icon": "waypoint-normal.png",
+  "x": 292,
+  "y": 160,
+  "z": -7519,
+  "r": 144,
+  "g": 137,
+  "b": 66,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

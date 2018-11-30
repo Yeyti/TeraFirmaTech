@@ -1,0 +1,17 @@
+{
+  "id": "Tet_1,159,-7337",
+  "name": "Tet",
+  "icon": "waypoint-normal.png",
+  "x": 1,
+  "y": 159,
+  "z": -7337,
+  "r": 255,
+  "g": 109,
+  "b": 130,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,31 @@
+#Custom Ore Generation 1.2.21 Config Options
+#Fri Jul 13 17:14:43 MSK 2018
+ifPyrolusite=all
+ifCobaltite=all
+ifOilsands=all
+ifBauxite=all
+ifIridium=true
+oreSize=1.0
+ifGranite=true
+ifTungsten=all
+COGActive=false
+ifGeoJeod=true
+ifPentlandite=all
+ifMolybdenite=all
+vanillaOreGen=true
+ifStibnite=all
+ifChromite=all
+ifTitan=all
+ifGlowstone=true
+ifSmallOres=10.0
+ifOlivine=true
+ifMagnesite=all
+ifMeteorite=true
+ifPyrites=all
+ifGems=true
+drawWireframes=true
+advOptions=false
+oreFreq=1.0
+deferredPopulationRange=16.0
+debugMode=false
+debugDist=false

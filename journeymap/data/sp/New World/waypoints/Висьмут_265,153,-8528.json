@@ -1,0 +1,17 @@
+{
+  "id": "Висьмут_265,153,-8528",
+  "name": "Висьмут",
+  "icon": "waypoint-normal.png",
+  "x": 265,
+  "y": 153,
+  "z": -8528,
+  "r": 176,
+  "g": 70,
+  "b": 122,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

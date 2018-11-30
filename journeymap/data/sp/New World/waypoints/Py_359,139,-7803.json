@@ -1,0 +1,17 @@
+{
+  "id": "Py_359,139,-7803",
+  "name": "Py",
+  "icon": "waypoint-normal.png",
+  "x": 359,
+  "y": 139,
+  "z": -7803,
+  "r": 128,
+  "g": 87,
+  "b": 140,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

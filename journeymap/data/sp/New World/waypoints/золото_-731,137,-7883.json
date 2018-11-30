@@ -1,0 +1,17 @@
+{
+  "id": "золото_-731,137,-7883",
+  "name": "золото",
+  "icon": "waypoint-normal.png",
+  "x": -731,
+  "y": 137,
+  "z": -7883,
+  "r": 224,
+  "g": 161,
+  "b": 29,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

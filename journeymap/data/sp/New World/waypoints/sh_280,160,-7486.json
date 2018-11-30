@@ -1,0 +1,17 @@
+{
+  "id": "sh_280,160,-7486",
+  "name": "sh",
+  "icon": "waypoint-normal.png",
+  "x": 280,
+  "y": 160,
+  "z": -7486,
+  "r": 215,
+  "g": 106,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

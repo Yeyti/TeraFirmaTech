@@ -1,0 +1,17 @@
+{
+  "id": "KA_437,152,-7397",
+  "name": "KA",
+  "icon": "waypoint-normal.png",
+  "x": 437,
+  "y": 152,
+  "z": -7397,
+  "r": 197,
+  "g": 82,
+  "b": 46,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

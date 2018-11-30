@@ -1,0 +1,17 @@
+{
+  "id": "Гвея_-286,148,-8238",
+  "name": "Гвея",
+  "icon": "waypoint-normal.png",
+  "x": -286,
+  "y": 148,
+  "z": -8238,
+  "r": 230,
+  "g": 223,
+  "b": 180,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "CH_124,152,-7554",
+  "name": "CH",
+  "icon": "waypoint-normal.png",
+  "x": 124,
+  "y": 152,
+  "z": -7554,
+  "r": 0,
+  "g": 0,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

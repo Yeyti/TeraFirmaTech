@@ -1,0 +1,17 @@
+{
+  "id": "BA_609,160,-7937",
+  "name": "BA",
+  "icon": "waypoint-normal.png",
+  "x": 609,
+  "y": 160,
+  "z": -7937,
+  "r": 3,
+  "g": 168,
+  "b": 229,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

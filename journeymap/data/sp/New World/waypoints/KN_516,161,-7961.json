@@ -1,0 +1,17 @@
+{
+  "id": "KN_516,161,-7961",
+  "name": "KN",
+  "icon": "waypoint-normal.png",
+  "x": 516,
+  "y": 161,
+  "z": -7961,
+  "r": 255,
+  "g": 163,
+  "b": 158,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

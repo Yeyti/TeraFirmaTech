@@ -1,0 +1,17 @@
+{
+  "id": "banana_497,149,-7527",
+  "name": "banana",
+  "icon": "waypoint-normal.png",
+  "x": 497,
+  "y": 149,
+  "z": -7527,
+  "r": 224,
+  "g": 212,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ma_238,160,-7397",
+  "name": "ma",
+  "icon": "waypoint-normal.png",
+  "x": 238,
+  "y": 160,
+  "z": -7397,
+  "r": 251,
+  "g": 1,
+  "b": 23,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

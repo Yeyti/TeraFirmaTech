@@ -1,0 +1,17 @@
+{
+  "id": "MA TA_331,143,-7863",
+  "name": "MA TA",
+  "icon": "waypoint-normal.png",
+  "x": 331,
+  "y": 143,
+  "z": -7863,
+  "r": 162,
+  "g": 145,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

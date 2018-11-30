@@ -1,0 +1,17 @@
+{
+  "id": "Li_369,154,-7441",
+  "name": "Li",
+  "icon": "waypoint-normal.png",
+  "x": 369,
+  "y": 154,
+  "z": -7441,
+  "r": 255,
+  "g": 80,
+  "b": 61,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

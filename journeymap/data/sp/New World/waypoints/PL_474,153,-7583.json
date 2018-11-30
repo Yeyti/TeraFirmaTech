@@ -1,0 +1,17 @@
+{
+  "id": "PL_474,153,-7583",
+  "name": "PL",
+  "icon": "waypoint-normal.png",
+  "x": 474,
+  "y": 153,
+  "z": -7583,
+  "r": 254,
+  "g": 254,
+  "b": 199,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

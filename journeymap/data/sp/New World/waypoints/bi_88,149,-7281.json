@@ -1,0 +1,17 @@
+{
+  "id": "bi_88,149,-7281",
+  "name": "bi",
+  "icon": "waypoint-normal.png",
+  "x": 88,
+  "y": 149,
+  "z": -7281,
+  "r": 103,
+  "g": 255,
+  "b": 129,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

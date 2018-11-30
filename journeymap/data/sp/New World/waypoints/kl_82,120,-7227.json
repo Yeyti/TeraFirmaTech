@@ -1,0 +1,17 @@
+{
+  "id": "kl_82,120,-7227",
+  "name": "kl",
+  "icon": "waypoint-normal.png",
+  "x": 82,
+  "y": 120,
+  "z": -7227,
+  "r": 195,
+  "g": 0,
+  "b": 77,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

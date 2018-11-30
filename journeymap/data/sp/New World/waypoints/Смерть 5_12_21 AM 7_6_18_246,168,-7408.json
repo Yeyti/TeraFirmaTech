@@ -1,0 +1,17 @@
+{
+  "id": "Смерть 5:12:21 AM 7/6/18_246,168,-7408",
+  "name": "Смерть 5:12:21 AM 7/6/18",
+  "icon": "waypoint-death.png",
+  "x": 246,
+  "y": 168,
+  "z": -7408,
+  "r": 12,
+  "g": 219,
+  "b": 113,
+  "enable": true,
+  "type": "Death",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

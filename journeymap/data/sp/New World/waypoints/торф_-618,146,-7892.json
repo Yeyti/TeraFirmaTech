@@ -1,0 +1,17 @@
+{
+  "id": "торф_-618,146,-7892",
+  "name": "торф",
+  "icon": "waypoint-normal.png",
+  "x": -618,
+  "y": 146,
+  "z": -7892,
+  "r": 73,
+  "g": 214,
+  "b": 164,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

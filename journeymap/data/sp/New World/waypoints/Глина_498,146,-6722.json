@@ -1,0 +1,17 @@
+{
+  "id": "Глина_498,146,-6722",
+  "name": "Глина",
+  "icon": "waypoint-normal.png",
+  "x": 498,
+  "y": 146,
+  "z": -6722,
+  "r": 38,
+  "g": 80,
+  "b": 156,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

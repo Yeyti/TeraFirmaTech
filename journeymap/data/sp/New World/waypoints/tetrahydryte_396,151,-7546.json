@@ -1,0 +1,17 @@
+{
+  "id": "tetrahydryte_396,151,-7546",
+  "name": "tetrahydryte",
+  "icon": "waypoint-normal.png",
+  "x": 396,
+  "y": 151,
+  "z": -7546,
+  "r": 145,
+  "g": 255,
+  "b": 145,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

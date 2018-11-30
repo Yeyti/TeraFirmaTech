@@ -1,0 +1,17 @@
+{
+  "id": "Platan_481,145,-6727",
+  "name": "Platan",
+  "icon": "waypoint-normal.png",
+  "x": 481,
+  "y": 145,
+  "z": -6727,
+  "r": 65,
+  "g": 219,
+  "b": 102,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

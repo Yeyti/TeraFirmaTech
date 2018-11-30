@@ -1,0 +1,17 @@
+{
+  "id": "Zn_253,161,-7473",
+  "name": "Zn",
+  "icon": "waypoint-normal.png",
+  "x": 253,
+  "y": 161,
+  "z": -7473,
+  "r": 244,
+  "g": 239,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

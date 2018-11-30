@@ -1,0 +1,17 @@
+{
+  "id": "he_366,152,-7421",
+  "name": "he",
+  "icon": "waypoint-normal.png",
+  "x": 366,
+  "y": 152,
+  "z": -7421,
+  "r": 223,
+  "g": 3,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

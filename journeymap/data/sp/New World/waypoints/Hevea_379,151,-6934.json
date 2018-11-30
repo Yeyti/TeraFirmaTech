@@ -1,0 +1,17 @@
+{
+  "id": "Hevea_379,151,-6934",
+  "name": "Hevea",
+  "icon": "waypoint-normal.png",
+  "x": 379,
+  "y": 151,
+  "z": -6934,
+  "r": 159,
+  "g": 255,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
